@@ -1,19 +1,18 @@
 ## active ##
-## meta_update_201503 ##
-## plugin_disable_warning ##
+## plugin_outdated ##
 ## plugin_updated_content ##
-## share_cta ##
+## plugincheck_nosupport ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
 # Used as page title in HTML meta tag
 ;Keep your Firefox healthy with a quick checkup
-Mențineți-vă Firefox sănătos cu un control rapid
+Mențineți Firefox sănătos cu un control rapid
 
 
 # Used as page description in HTML meta tag
 ;Use Flash? QuickTime? Java? If you use these to make your Firefox experience more awesome, check your plugins! They may need to be updated.
-Folosiți Flash? QuickTime? Java? Dacă folosiți acestea pentru a face experiența cu Firefox mai minunată, verificați-vă modulele! S-ar putea să aibă nevoie să fie actualizate.
+Folosiți Flash? QuickTime? Java? Dacă folosiți acestea pentru o experiență mai bună, verificați modulele! S-ar putea să aibă nevoie de o actualizare.
 
 
 # Old page <title> tag
@@ -23,22 +22,22 @@ Verificare și actualizare module
 
 # This is a button telling the user to update their plugin
 ;Update Now
-Actualizează acum
+Actualizați acum
 
 
 # This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
 ;Research
-Cercetează
+Verificare
 
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-versiunea actuală a modulului
+versiunea curentă a modulului
 
 
 # This is a button informing the user that their plugin is up to date
 ;Up to Date
-Modul la zi
+Modul actualizat
 
 
 # L10n: This is alt text used on plugin icon images
@@ -56,26 +55,31 @@ necunoscut
 vulnerabil
 
 
+# This is the string used to indicate that the plugin is outdated
+;outdated
+învechit
+
+
 # Main title
 ;Check Your Plugins
-Verificați-vă modulele
+Verificați modulele
 
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
-Păstrând modulele actualizate, veți avea un Firefox care rulează sigur și lin.
+Actualizând modulele Firefox poate rula sigur și eficient.
 
 
 ;Currently the plugin check service is only available to Firefox users.
-Currently the plugin check service is only available to Firefox users.
+Momentan serviciul de verificare a modulelor este disponibil doar pentru utilizatorii Firefox.
 
 
 # This string is used as a message shared on Twitter, Facebook, etc. Try to stay around the same length of English, rephrase if necessary.
 ;Plugins don’t always update automatically. Check yours now to stay safe and browse without interruption!
-Modulele nu se actualizează întotdeauna automat. Verificați-le acum pentru a fi în siguranță și a naviga fără întreruperi!
+Modulele nu se actualizează întotdeauna automat. Verificați modulele acum pentru a rămâne în siguranță!
 
 
 ;Looks like you’re using an older version of Firefox.
-Se pare că folosești o versiune mai veche de Firefox.
+Se pare că folosiți o versiune mai veche de Firefox.
 
 
 ;Plugin Status
@@ -83,11 +87,11 @@ Starea modulelor
 
 
 ;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
-Verificarea modulelor <strong>pentru Internet Explorer e limitată</strong>. Încercați și Unelte -> Gestionează suplimente
+Verificarea modulelor <strong>pentru Internet Explorer e limitată</strong>. Încercați și Unelte -> Gestionare suplimente
 
 
 ;Step 1: Click Update to update a plugin.
-Pasul 1: Clic pe Actualizează pentru a actualiza un modul.
+Pasul 1: Clic pe Actualizare pentru a actualiza un modul.
 
 
 ;Step 2: Complete all recommended updates before restarting your browser.
@@ -123,7 +127,7 @@ Aceste module sunt actualizate
 
 
 ;Back to Top
-Întoarceți-vă în partea de sus
+Reveniți la partea de sus
 
 
 ;Frequently Asked Questions
@@ -135,7 +139,7 @@ Ce este un modul?
 
 
 ;Plugins power videos, animation and games
-Modulele vă oferă videoclipuri, animații și jocuri.
+Modulele vă oferă clipuri video, animații și jocuri
 
 
 ;They're built outside of Firefox by companies like Adobe Systems and Apple
@@ -151,7 +155,7 @@ De ce ar trebui să îmi actualizez modulele?
 
 
 ;Old plugins can interrupt browsing and waste your time.
-Modulele vechi pot întrerupe navigarea și să pierdeți timpul.
+Modulele vechi pot întrerupe navigarea și vă pot irosi timpul.
 
 
 ;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
@@ -159,7 +163,7 @@ Modulele vechi <strong>sporesc riscul</strong> de a fi atacat de programe rău i
 
 
 ;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
-<strong>Modulele actualizate au îmbunătățiri</strong> care fac Web-ul <strong>mai bun și mai sigur</strong> pentru dumneavoastră.
+<strong>Modulele actualizate</strong> fac Web-ul <strong>mai bun și mai sigur</strong> pentru dvs.
 
 
 # alt image
@@ -172,7 +176,7 @@ Cum mă poate ajuta Firefox?
 
 
 ;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
-În viitor, Firefox vă va actualiza modulele. Până atunci, ar trebui să vizitați regulat această pagină și să vă actualizați modulele pentru a rămâne în siguranță.
+În viitor, Firefox va actualiza modulele. Până atunci, ar trebui să vizitați regulat această pagină și să vă actualizați modulele pentru a rămâne în siguranță.
 
 
 ;Which Plugins do I have?
@@ -180,7 +184,7 @@ Ce module am?
 
 
 ;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
-V-am detectat automat modulele și le-am afișat mai sus, pentru a vedea modulele instalate în Firefox urmați acești pași:
+Am detectat automat modulele și le-am afișat mai sus. Pentru a vedea modulele instalate în Firefox urmați acești pași:
 
 
 ;Want to spread the word?
@@ -188,7 +192,7 @@ Doriți să dați de veste?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Ajutați-vă prietenii să stea în siguranță online! Vizitați <a href="%(url)s">Afiliați Firefox</a> pentru a obține un ecuson cu verificare de module pentru saitul dumneavoastră.
+Ajutați-vă prietenii să rămână în siguranță online! Vizitați <a href="%(url)s">Afiliați Firefox</a> pentru a obține o insignă pentru atestarea verificării modulele pentru saitul dvs.
 
 
 ;How do I disable a plugin?
@@ -209,11 +213,11 @@ Deschideți <span class="menu">meniul</span>.
 
 
 ;Choose Add-ons.
-Alegeți Suplimente.
+Alegeți „suplimente”.
 
 
 ;Click the plugins tab.
-Clic pe fila Module.
+Clic pe fila „module”.
 
 
 ;Click on the drop down next to the plugin you wish to disable.
@@ -229,19 +233,19 @@ Selectați „Nu activa niciodată” din lista de opțiuni disponibile.
 
 
 ;Click the Disable button.
-Clic pe butonul Dezactivează.
+Clic pe butonul „Dezactivează”.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Atenție: dezactivarea unui modul înseamnă că nu-i mai permiteți să facă diverse lucruri. De exemplu, dacă dezactivați Flash, nu veți mai putea viziona videoclipuri pe YouTube.
+Atenție: dezactivarea unui modul înseamnă că nu-i mai permiteți să funcționeze. De exemplu, dacă dezactivați Flash nu veți mai putea viziona videoclipuri pe Facebook.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
-Atenție: dezactivarea unui modul înseamnă că nu-i mai permiteți să facă diverse lucruri. De exemplu, dacă dezactivați Flash, nu veți mai putea viziona videoclipuri pe cele mai populare saituri transmisiuni video.
+Atenție: dezactivarea unui modul înseamnă că nu-i mai permiteți să funcționeze. De exemplu, dacă dezactivați Flash nu veți mai putea viziona videoclipuri pe unele saituri care transmit conținut video.
 
 
 ;Mozilla Support
-Mozilla Support {ok}
+Suport Mozilla
 
 
 ;Have more questions?
