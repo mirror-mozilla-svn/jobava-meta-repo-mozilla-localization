@@ -8,7 +8,7 @@ do
     if [[ -n "$reponame" && -n "$repourl" && $reponame != "reponame" && $repourl != "repourl" ]]; then
         echo "Creating $reponame ..."
         mkdir "$reponame"
-        svn checkout -r 142380 "$repourl" "$reponame"
+        svn checkout "$repourl" "$reponame"
     fi
 done < $INPUT
 IFS=$OLDIFS
