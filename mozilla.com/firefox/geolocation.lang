@@ -12,7 +12,7 @@ Navigare conștientă de locație
 
 
 ;Firefox can tell websites where you’re located so you can find info that’s more relevant and more useful. It’s about making the Web smarter &ndash; and is done in a way that totally respects your privacy. <a href="%(url)s" id="%(id)s" style="%(style)s">Give it a try!</a>
-Firefox poate spune saiturilor web unde vă aflați pentru ca acestea să vă ofere informații cât mai relevante și mai utile. E un pas către un web mai inteligent &ndash; și totul cu respect pentru intimitatea dumneavoastră. <a href="%(url)s" id="%(id)s" style="%(style)s">Încercați acum!</a>
+Firefox poate spune saiturilor web unde vă aflați pentru ca acestea să vă ofere informații cât mai relevante și mai utile. E un pas către un web mai inteligent &ndash; și totul cu respect pentru intimitatea dumneavoastră <a href="%(url)s" id="%(id)s" style="%(style)s">Încercați acum!</a>
 
 
 ;Frequently asked Questions
@@ -24,15 +24,15 @@ Ce este navigarea conștientă de locație?
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Saiturile care folosesc servicii de detectare a locației dumneavoastră vă vor întreba unde vă aflați pentru a vă oferi informații mai relevante sau pentru a micșora timpul de căutare. Să zicem că vreți să găsiți o pizzerie în zona în care vă aflați. Un sait vă va întreba unde vă aflați pentru ca printr-o simplă căutare după „pizza” să găsiți cele mai apropiate pizzerii și nu pizzerii de pe alt continent.
+Saiturile care folosesc servicii de detectare a locației vă vor întreba unde vă aflați pentru a vă oferi informații mai relevante sau pentru a micșora timpul de căutare. Să zicem că vreți să găsiți o pizzerie în zona în care vă aflați. Un sait va putea să vă ceară să vă împărtășiți locația pentru ca printr-o simplă căutare după „pizza” să găsiți cele mai apropiate pizzerii și nu pizzerii de pe alt continent.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-Sau, dacă căutați direcții către un loc anume, saitul va ști de unde veți pleca așa că nu trebuie decât să-i spuneți încotro mergeți. Ca un GPS.
+Sau, atunci când căutați un loc anume, saitul va ști de unde plecați așa că nu trebuie să-i spuneți decât unde vreți să ajungeți.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
-Acest serviciu este totalmente opțional &ndash; Firefox nu va dezvălui locația dumneavoastră fără permisiunea dumneavoastră &ndash; totul este gândit astfel încât intimitatea dumneavoastră să fie respectată mereu. Și ca toate elementele din Firefox acest serviciu este creat folosind standarde deschise pentru a ușura adoptarea lor de către dezvoltatorii de web.
+Acest serviciu este complet opțional &ndash; Firefox nu va dezvălui locația dumneavoastră fără permisiune &ndash; totul cu cel mai mare respect față de confidențialitatea dumneavoastră. Și, ca toate elementele din Firefox, acest serviciu este creat folosind standarde deschise pentru a ușura adoptarea lor de către dezvoltatorii Web.
 
 
 ;How does it work?
@@ -40,11 +40,11 @@ Cum funcționează?
 
 
 ;When you visit a location-aware website, Firefox will ask you if you want to share your location.
-Când vizitați un sait care poate folosi locația dumneavoastră, Firefox vă va întreba dacă doriți ca saitul să primească informații despre locația dumneavoastră.
+Când vizitați un sait care poate folosi locația dumneavoastră, Firefox vă va întreba dacă doriți să vă împărtășiți locația.
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
-Dacă permiteți, Firefox adună informații despre puncte de acces radio din apropiere și despre adresa dumneavoastră IP. Apoi firefox trimite aceste informații către furnizorul serviciului de geolocație, Google Location Services, pentru a obține o estimare a locației dumneavoastră. Apoi, această estimare este împărtășită cu saitul care a cerut informația.
+Dacă permiteți, Firefox adună informații despre puncte de acces radio din apropiere și despre adresa IP. Firefox trimite aceste informații către furnizorul serviciului de geolocație - Google Location Services - pentru a obține o estimare a locației. Această estimare este apoi împărtășită cu saitul care a cerut informația.
 
 
 ;If you say that you do not consent, Firefox will not do anything.
@@ -56,23 +56,23 @@ Cât de precise sunt informațiile?
 
 
 ;Accuracy varies greatly from location to location. In some places, our service providers may be able to provide a location to within a few meters. However, in other areas it might be much more than that. All locations returned by our service providers are estimates only and we do not guarantee the accuracy of the locations provided. Please do not use this information for emergencies. Always use common sense.
-Acuratețea variază în mare măsură în funcție de locația dumneavoastră. În unele locuri, furnizorii noștri de servicii pot furniza datele cu o precizie de câțiva metri. În alte situații însă, poate fi o precizie mult mai mică. Toate pozițiile returnate de furnizorii de servicii sunt estimări și noi nu putem garanta acuratețea lor. Vă recomandăm să nu vă bazați pe aceste informații pentru urgențe. Folosiți serviciul cu băgare de seamă.
+Acuratețea variază în funcție de locație. În unele locuri, furnizorii noștri de servicii pot furniza datele cu o precizie de câțiva metri. În alte situații, locația poate fi mai puțin precisă. Toate pozițiile returnate de furnizorii de servicii sunt estimări și nu putem garanta acuratețea lor. Nu vă bazați pe aceste informații pentru urgențe.
 
 
 ;What information is being sent, and to whom? How is my privacy protected?
-Ce informații sunt trimise și către cine? Cum este protejată intimitatea mea?
+Ce informații sunt trimise și către cine? Cum este protejată confidențialitatea mea?
 
 
 ;Your privacy is extremely important to us, and Firefox never shares your location without your permission. When you visit a page that requests your information, you’ll be asked before any information is shared with the requesting website and our third-party service provider.
-Intimitatea dumneavoastră este extrem de importantă pentru noi. Firefox nu va furniza date despre locația dumneavoastră fără a vă cere permisiunea. Când vizitați o pagină care cere aceste informații, veți fi întrebat înainte ca orice informație să fie împărtășită cu saitul care o cere sau cu furnizorul de servicii de geolocație.
+Confidențialitatea dumneavoastră este extrem de importantă pentru noi. Firefox nu va furniza date despre locație fără a vă cere permisiunea. Când vizitați o pagină care cere aceste informații, veți fi întrebat înainte ca informația să fie împărtășită cu saitul care o cere sau cu furnizorul de servicii de geolocație.
 
 
 ;By default, Firefox uses Google Location Services to determine your location by sending:
-Implicit, Firefox folosește serviciile Google Location pentru a determina locația dumneavoastră trimițând:
+Implicit, Firefox folosește serviciile Google Location pentru a determina locația, trimițând:
 
 
 ;your computer’s IP address,
-adresa IP a calculatorului dumneavoastră,
+adresa IP a calculatorului,
 
 
 ;information about the nearby wireless access points, and
@@ -84,7 +84,7 @@ un identificator generat aleator de către Google care expiră în două săptă
 
 
 ;For a complete description of information collected and used by Firefox, please see the <a href="%(url)s">Firefox Privacy Notice</a>.
-Pentru o descriere completă a informațiilor colectate de Firefox, vă rugăm să vedeți <a href="%(url)s">Politica de confidențialitate Firefox</a> (în enleză).
+Pentru o descriere completă a informațiilor colectate de Firefox, vă rugăm să vedeți <a href="%(url)s">Politica de confidențialitate Firefox</a> (în engleză).
 
 
 ;Google Location Services then returns your estimated geolocation (e.g., latitude and longitude). For a complete description of information collected and used by Google, please see the <a href="%(url)s" class="%(class)s">Google Geolocation Privacy Policy</a>.
@@ -92,7 +92,7 @@ Pe baza informațiilor trimise, serviciile Google Location întorc geolocația e
 
 
 ;The information is exchanged over an encrypted connection to protect your privacy. Once Firefox has your location information, it passes it to the website that requested it. At no time is the name or location of the website you are visiting, or are any cookies, ever shared with Google Location Services.
-Schimbul de informații se face printr-o conexiune criptată pentru a vă proteja intimitatea. De îndată ce Firefox cunoaște locația dumneavoastră o va da mai departe saitului care le-a cerut. Nu se vor trimite către Google în niciun moment informații despre saitul pe care-l vizitați sau orice alte informații.
+Schimbul de informații se face printr-o conexiune criptată pentru a vă proteja confidențialitatea. De îndată ce Firefox vă cunoaște locația, o va trimite mai departe saitului care a cerut-o. Nu se vor trimite către Google în niciun moment informații despre saitul pe care-l vizitați sau orice alte informații.
 
 
 ;Neither Mozilla or Google will ever use the information collected by Google Location Services to identify or spy on you.
@@ -104,7 +104,7 @@ Pentru mai multe informații despre ce face saitul pe care-l vizitați cu inform
 
 
 ;For more information about your privacy, you should also read:
-Pentru mai multe informații despre intimitatea dumneavoastră, vă sugerăm să citiți și:
+Pentru mai multe informații despre confidențialitate, vă sugerăm să citiți și:
 
 
 ;Mozilla Firefox Privacy Notice
@@ -128,7 +128,7 @@ Cum anulez o permisiune acordată unui sait?
 
 
 ;If you've given Firefox permission to always give your location to a site and later change your mind, you can easily revoke that permission. Here's how:
-Dacă ați permis prin intermediul Firefox unui sait să primească întotdeauna informații despre locația dumneavoastră și ulterior vă răzgândiți, puteți revoca foarte ușor acea permisiune. Iată cum:
+Dacă ați permis prin intermediul Firefox unui sait să primească întotdeauna informații despre locație și ulterior vă răzgândiți, puteți revoca foarte ușor acea permisiune. Iată cum:
 
 
 ;Navigate to the site to which you’ve given permission
@@ -184,7 +184,7 @@ Tastați <code>geo.enabled</code>
 
 
 ;Double click on the <em>geo.enabled</em> preference
-Faceți clic dublu pe preferința <em>geo.enabled</em>
+Clic dublu pe preferința <em>geo.enabled</em>
 
 
 ;Location-Aware Browsing is now disabled
@@ -201,7 +201,7 @@ Puteți integra suportul pentru geolocație în serviciile dumneavoastră urmân
 
 
 ;Where am I?
-Unde sunt?
+Unde mă aflu?
 
 
 ;Oops! An error occurred while trying to determine your position.
