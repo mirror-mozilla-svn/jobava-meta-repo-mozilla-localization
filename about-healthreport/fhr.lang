@@ -7,7 +7,7 @@ Date brute
 
 
 ;Get insights and performance information about your version of Firefox.
-Perspective și informații despre performanța versiunii Firefox.
+Obțineți perspective și informații despre performanța versiunii Firefox.
 
 
 ;Learn more...
@@ -23,7 +23,7 @@ Pornită
 
 
 ;You've chosen to stop sharing data with Mozilla, but you'll still be able to see how your browser is performing.
-Ați ales să opriți partajarea de date cu Mozilla, puteți vedea în continuare cum funcționează navigatorul dvs.
+Ați ales să opriți partajarea de date cu Mozilla, dar veți putea vedea în continuare cum se comportă navigatorul dvs.
 
 
 ;Your Health Report data will also be removed from Mozilla's servers. Learn more in our <a href="%(privacy_url)s">privacy policy.</a>
@@ -71,7 +71,7 @@ defecțiuni ale aplicației
 
 
 ;plugin crashes
-defecțiuni module
+defecțiuni ale modulelor
 
 
 ;Add-ons
@@ -127,7 +127,7 @@ Vizitați <a href="%(sumo_url)s">saitul nostru de suport</a>
 
 
 ;View more <a href="%(details_url)s">detailed information</a>
-Mai multe <a href="%(details_url)s">informații detaliate</a>
+Vedeți mai multe <a href="%(details_url)s">informații detaliate</a>
 
 
 ;pages visited
@@ -704,6 +704,6 @@ Alegeți ce transmiteți
 
 
 ;You are currently not sharing your health report with Mozilla.
-În prezent nu transmiteți raportul de stare către Mozilla.
+În prezent nu partajați raportul de stare cu Mozilla.
 
 

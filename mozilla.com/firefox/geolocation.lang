@@ -24,15 +24,15 @@ Ce este navigarea conștientă de locație?
 
 
 ;Websites that use location-aware browsing will ask where you are in order to bring you more relevant information, or to save you time while searching. Let’s say you’re looking for a pizza restaurant in your area. A website will be able to ask you to share your location so that simply searching for “pizza” will bring you the answers you need... no further information or extra typing required.
-Saiturile care folosesc servicii de detectare a locației dvs. vă vor întreba unde vă aflați pentru a vă oferi informații mai relevante sau pentru a micșora timpul de căutare. Să zicem că vreți să găsiți o pizzerie în zona în care vă aflați. Un sait vă va întreba unde vă aflați pentru ca printr-o simplă căutare după „pizza” să găsiți cele mai apropiate pizzerii și nu pizzerii de pe alt continent.
+Saiturile care folosesc servicii de detectare a locației dvs. vă vor întreba unde vă aflați pentru a vă oferi informații mai relevante sau pentru a micșora timpul de căutare. Să zicem că vreți să găsiți o pizzerie în zona în care vă aflați. Un sait va putea să vă ceară să vă împărtășiți locația pentru ca printr-o simplă căutare după „pizza” să găsiți cele mai apropiate pizzerii și nu pizzerii de pe alt continent.
 
 
 ;Or, if you’re mapping out directions to get somewhere, the website will know where you’re starting from so all you have to do is tell it where you want to go.
-Sau, atunci când căutați un loc anume, saitul va ști de unde plecați așa că nu trebuie decât să-i spuneți încotro mergeți. La fel ca un GPS.
+Sau, atunci când căutați un loc anume, saitul va ști de unde plecați așa că nu trebuie să-i spuneți decât unde vreți să ajungeți.
 
 
 ;This service is totally optional &ndash; Firefox doesn’t share your location without your permission &ndash; and is done with the utmost respect for your privacy. And, like all elements of Firefox, it’s being created using open standards to ease adoption by Web developers.
-Acest serviciu este totalmente opțional &ndash; Firefox nu va dezvălui locația dvs. fără permisiune &ndash; totul este gândit astfel încât intimitatea dvs. să fie respectată mereu. Și, ca toate elementele din Firefox, acest serviciu este creat folosind standarde deschise pentru a ușura adoptarea lor de către dezvoltatorii de web.
+Acest serviciu este totalmente opțional &ndash; Firefox nu va dezvălui locația dvs. fără permisiune &ndash; totul este gândit astfel încât intimitatea dvs. să fie respectată mereu. Și, ca toate elementele din Firefox, acest serviciu este creat folosind standarde deschise pentru a ușura adoptarea lor de către dezvoltatorii Web.
 
 
 ;How does it work?
@@ -40,7 +40,7 @@ Cum funcționează?
 
 
 ;When you visit a location-aware website, Firefox will ask you if you want to share your location.
-Când vizitați un sait care poate folosi locația dvs., Firefox vă întreabă dacă doriți ca saitul să primească informații despre locație.
+Când vizitați un sait care poate folosi locația dvs., Firefox vă va întreba dacă doriți ca saitul să primească informații despre locație.
 
 
 ;If you consent, Firefox gathers information about nearby wireless access points and your computer’s IP address. Then Firefox sends this information to the default geolocation service provider, Google Location Services, to get an estimate of your location. That location estimate is then shared with the requesting website.
@@ -48,7 +48,7 @@ Dacă permiteți, Firefox adună informații despre puncte de acces radio din ap
 
 
 ;If you say that you do not consent, Firefox will not do anything.
-Dacă nu permiteți împărtășirea locației, Firefox nu va face nimic.
+Dacă nu permiteți, Firefox nu va face nimic.
 
 
 ;How accurate are the locations?
