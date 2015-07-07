@@ -23,11 +23,11 @@ Starea dvs.:
 
 
 ;Mozilla is a global, nonprofit organization dedicated to making the Web better. We emphasize principle over profit, and believe that the Web is a shared public resource to be cared for, not a commodity to be sold. We answer to no one but you and believe it is crucial to put you in control of your online experience. We are aiming to give you better insight and control into the ways your personal information is collected, used, stored and shared online.
-Mozilla este o organizație globală, non-profit dedicată misiunii de a realiza un internet mai bun. Noi punem accentul pe principii, nu pe profit și credem că internetul este o resursă publică accesibilă tuturor, nu o marfă vandabilă. Nu dăm socoteală nimănui și credem că este crucial să vă punem în controlul experienței voastre online. Vrem să vă oferim cunoștințele și controlul asupra modului în care este colectată, folosită și partajată informația personală online.
+Mozilla este o organizație globală, nonprofit dedicată misiunii de a realiza un internet mai bun. Noi punem accentul pe principii, nu pe profit și credem că internetul este o resursă publică accesibilă tuturor, nu o marfă vandabilă. Nu dăm socoteală nimănui și credem că este crucial să vă punem în controlul experienței voastre online. Vrem să vă oferim cunoștințele și controlul asupra modului în care este colectată, folosită și partajată informația personală online.
 
 
 ;Mozilla Firefox offers a Do Not Track feature that lets you express a preference not to be tracked by websites. When the feature is enabled, Firefox will tell advertising networks and other websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
-Mozilla Firefox oferă funcționalitatea „Nu mă urmări” (Do Not Track) care vă permite să spuneți saiturilor pe care le vizitați că nu doriți să fiți urmăriți. Când este activată funcționalitatea Firefox va spune agențiilor publicitare, saiturilor și aplicațiilor Web că nu doriți să fiți urmăriți în scopuri precum publicitatea comportamentală.
+Mozilla Firefox vă oferă funcționalitatea „Nu mă urmări” (Do Not Track) care vă permite să spuneți saiturilor pe care le vizitați că nu doriți să fiți urmăriți. Când este activată funcționalitatea Firefox va spune agențiilor publicitare, saiturilor și aplicațiilor Web că nu doriți să fiți urmăriți în scopuri precum publicitatea comportamentală.
 
 
 ;Frequently Asked <span>Questions</span>
@@ -55,7 +55,7 @@ Da. Firefox pentru Android este primul navigator mobil care oferă funcționalit
 
 
 ;No, you will still see ads with Do Not Track enabled. However, Do Not Track may change the type of ads you see. For example, behavioral ads are targeted to your interests based on the websites you visit and the search terms you use. If you request that websites Do Not Track you, and the sites respect your privacy preferences, you will see more generic ads in place of behavioral ads.
-Veți vedea în continuare mesaje publicitare chiar și cu opțiunea „Nu mă urmări” activată. Totuși, „Nu mă urmări” ar putea schimba tipul de publicitate vizibilă. De exemplu, publicitatea comportamentală produce mesaje publicitare generate din activitatea online: saiturile pe care le vizitați și termenii de căutare folosiți. Dacă le cereți saiturilor să nu vă urmărească și acestea vă respectă preferința atunci vă va fi servită publicitate ne-comportamentală.
+Nu, veți vedea în continuare mesaje publicitare chiar și cu opțiunea „Nu mă urmări” activată. Totuși, „Nu mă urmări” ar putea schimba tipul de publicitate vizibilă. De exemplu, publicitatea comportamentală produce mesaje publicitare generate din activitatea online: saiturile pe care le vizitați și termenii de căutare folosiți. Dacă le cereți saiturilor să nu vă urmărească și acestea vă respectă preferința atunci vă va fi servită publicitate ne-comportamentală.
 
 
 ;How does Do Not Track work with other privacy tools?
@@ -131,7 +131,7 @@ Conformitatea și aria de acțiune pentru urmărire <a href="%s">draft-ul editor
 
 
 ;The W3C <a href="%s">Tracking Protection Working Group</a>
-<a href="%s">Grupul de lucru pentru protecție față de urmărire</a> al W3C
+<a href="%s">Grupul de lucru pentru protecția de urmărire</a> al W3C
 
 
 ;<a href="%s">Ghostery</a> &#8212; a tool that lets you learn which sites are tracking you online
