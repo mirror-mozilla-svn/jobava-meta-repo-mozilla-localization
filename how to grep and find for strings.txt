@@ -1,0 +1,1 @@
+find mozilla.com -type f -name "*.lang" -exec grep -i "my string" {} \; -print
