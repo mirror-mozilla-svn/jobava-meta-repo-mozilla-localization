@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Extract only the translated strings from a .lang file, line by line
+# Works like cat, except also prints filename and line number for each line
 
 if [ -z "$1" ]; then
     echo "Print lines in a file, printing the filename and line number for each line"
