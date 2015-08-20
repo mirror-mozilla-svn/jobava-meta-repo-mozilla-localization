@@ -1,6 +1,12 @@
 #!/bin/bash
 
 # Works like cat, except also prints filename and line number for each line
+# Useful for grep/egrep
+#
+# example usage: find . -type f -name "*.po*" -exec ./acat.sh \; |
+#                  grep -i "something" | 
+#                  grep -vi "exclude something" | tee ../output.txt
+#  using 'tee' allows output directly to screen, as well as the specified file
 
 if [ -z "$1" ]; then
     echo "Print lines in a file, printing the filename and line number for each line"
