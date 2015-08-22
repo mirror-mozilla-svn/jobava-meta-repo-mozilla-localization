@@ -4,7 +4,7 @@
 
 # Title of the page (HTML meta)
 ;Mobile Web browser for your iPhone, iPad and iPod touch
-Navigator mobil pentru iPhone, iPad și iPod touch
+Browser mobil pentru iPhone, iPad și iPod touch
 
 
 ;Firefox for iOS
@@ -15,8 +15,8 @@ Firefox pentru iOS
 Adăugă Firefox pentru iPhone, iPad și iPod touch.
 
 
-;Beta release
-Versiune Beta
+;Preview release
+Ediție în avanpremieră
 
 
 ;Get it now
@@ -81,5 +81,22 @@ Află mai multe despre Sync
 
 ;Send Firefox to your iOS device
 Trimite Firefox dispozitivului tău iOS
+
+
+;Sync your Firefox browsing history on iOS
+Sincronizați istoria de navigare pe iOS
+
+
+# The %(gear_icon)s represents an image of the gear icon used to access Settings in the app
+;First tap the <b>tab</b> button. Then tap the %(gear_icon)s icon to start using Sync.
+Atingeți butonul <b>tab</b>n. Apoi atingeți %(gear_icon)s pentru a începe cu Sync.
+
+
+;Not now
+Nu acum
+
+
+;Learn more in the App Store
+Aflați mai multe despre App Store
 
 
