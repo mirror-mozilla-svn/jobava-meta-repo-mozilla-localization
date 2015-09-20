@@ -53,22 +53,6 @@ Selectează o locație
 Argentina {ok}
 
 
-;Australia
-Australia {ok}
-
-
-;Bangladesh
-Bangladesh {ok}
-
-
-;Belgium
-Belgia
-
-
-;Brazil
-Brazilia
-
-
 ;Cameroon
 Camerun
 
@@ -83,10 +67,6 @@ Chile {ok}
 
 ;Colombia
 Columbia
-
-
-;Costa Rica
-Costa Rica {ok}
 
 
 ;Egypt
@@ -121,10 +101,6 @@ Ungaria
 India {ok}
 
 
-;Italy
-Italia
-
-
 ;Ivory Coast
 Coasta de Fildeș
 
@@ -141,28 +117,16 @@ Kenya {ok}
 Luxemburg
 
 
+;Madagascar
+Madagascar {ok}
+
+
 ;Mauritius
 Mauritius {ok}
 
 
 ;Mexico
 Mexic
-
-
-;Macedonia
-Macedonia {ok}
-
-
-;Madagascar
-Madagascar {ok}
-
-
-;Montenegro
-Muntenegru
-
-
-;Myanmar
-Myanmar {ok}
 
 
 ;Nicaragua
@@ -177,12 +141,8 @@ Panama {ok}
 Peru {ok}
 
 
-;Philippines
-Filipine
-
-
-;Poland
-Polonia
+;Romania
+România
 
 
 ;Russia
@@ -197,6 +157,59 @@ Senegal {ok}
 Serbia {ok}
 
 
+;Tunisia
+Tunisia {ok}
+
+
+;Uruguay
+Uruguay {ok}
+
+
+# The following countries are not currently sold online. We'll keep them around in case they come back
+;Australia
+Australia {ok}
+
+
+;Bangladesh
+Bangladesh {ok}
+
+
+;Belgium
+Belgia
+
+
+;Brazil
+Brazilia
+
+
+;Costa Rica
+Costa Rica {ok}
+
+
+;Italy
+Italia
+
+
+;Macedonia
+Macedonia {ok}
+
+
+;Montenegro
+Muntenegru
+
+
+;Myanmar
+Myanmar {ok}
+
+
+;Philippines
+Filipine
+
+
+;Poland
+Polonia
+
+
 ;South Africa
 Africa de Sud
 
@@ -209,10 +222,6 @@ Spania
 Elveția
 
 
-;Tunisia
-Tunisia {ok}
-
-
 ;United Kingdom
 Regatul Unit
 
@@ -221,16 +230,12 @@ Regatul Unit
 Statele Unite
 
 
-;Uruguay
-Uruguay {ok}
-
-
 ;Venezuela
 Venezuela {ok}
 
 
 ;Features
-Funcții
+Caracteristici
 
 
 ;Specifications
@@ -414,7 +419,7 @@ Până la 16 GB
 
 
 ;Up to 32 GB
-Până 32 GB
+Până la 32 GB
 
 
 ;Up to 64 GB
@@ -961,7 +966,7 @@ Citește despre funcțiile și misiunea din spatele Firefox OS
 
 
 ;Get help with your Firefox OS device from Mozilla Support
-Obține ajutor pentru dispozitivul tău cu Firefox OS de pe Suport Mozilla
+Obține ajutor pentru dispozitivul tău Firefox OS de pe Mozilla Support
 
 
 ;See what Firefox OS offers and means for developers
@@ -983,11 +988,11 @@ Te rugăm să citești citești întrebările adresate frecvent pentru o <a href
 
 # Case 1: There are several phone providers
 ;Choose one from the list below to get a Firefox OS smartphone in your country.
-Alege unul din lista de mai jos pentru a obține un telefon cu Firefox OS în țara ta.
+Alege unul din lista de mai jos pentru a obține un smartphone Firefox OS în țara ta.
 
 
 # Case 2: There is only one provider in the country
 ;Click on the provider below to get a Firefox OS smartphone in your country.
-Clic pe furnizorul de mai jos pentru a obține un telefon cu Firefox OS în țara ta.
+Clic pe furnizorul de mai jos pentru a obține un smartphone Firefox OS în țara ta.
 
 
