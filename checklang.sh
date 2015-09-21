@@ -7,7 +7,7 @@
 filename="$1"
 
 line_number=0
-while IFS='' read -r english || [[ -n $line ]]; do
+while IFS='' read -r english || [[ -n $english ]]; do
     line_number=$((line_number+1))
     #echo "$line_number $english"
     if [[ $english = \;* ]]; then
